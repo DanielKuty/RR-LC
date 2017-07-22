@@ -1,41 +1,21 @@
-## Welcome to RR-LC clan pages
+## Vítejte na stránkách klanu RR-LC
 
-You can use the [editor on GitHub](https://github.com/DanielKuty/RR-LC/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 
 ![Image](assets/img/Wot_default_clan_icon.jpg)
 
-```markdown
-Syntax highlighted code block
+### Náborové podmínky klanu
+Minimální věk 17 let možné i vyjímky.
+Komunikační program: Teamspeak 3
+Procenta výher/proher:48%
+Osobní hodnocení:4000
+Nejlépe tanky úrovně 6 a výše.
+Slušné chování
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Členové
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DanielKuty/RR-LC/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Kontakt
+Komanc1=velitel
+eecko=zastupce velitele
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Podpora
+V případě nefunkčnosti stránek nebo nějakého funkce stránky kontaktujte prosím benderkut nebo na email:daniel.kuty29@gmail.com
