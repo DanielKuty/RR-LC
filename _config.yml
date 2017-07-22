@@ -4,3 +4,4 @@ defaults:
       path: "assets/img"
     values:
       image: true
+baseurl: https://danielkuty.github.io/RR-LC/
