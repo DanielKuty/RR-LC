@@ -8,8 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-![Image](assets/img/WOT_logo.png)
 
+![Image](assets/img/Wot_default_clan_icon.jpg)
 
 ```markdown
 Syntax highlighted code block
