@@ -13,9 +13,3 @@ Nejlépe tanky úrovně 6 a výše.
 Slušné chování a alespon minimální druh mentální vyspělosti.
 
 
-### Kontakt
-Komanc1=velitel
-eecko=zastupce velitele
-
-### Podpora
-V případě nefunkčnosti stránek nebo nějakého funkce stránky kontaktujte prosím benderkut nebo na email:daniel.kuty29@gmail.com
