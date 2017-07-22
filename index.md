@@ -11,5 +11,6 @@ Procenta výher/proher:48%
 Osobní hodnocení:4000
 Nejlépe tanky úrovně 6 a výše.
 Slušné chování a alespon minimální druh mentální vyspělosti.
-
+### Turnaje nebo speciální eventy
+V tuto dobu neprobíhají žádně turnaje ani speciální eventy
 
