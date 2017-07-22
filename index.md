@@ -23,6 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+ ![Image](assets/img/WOT_logo.png)
+
 [Link](url) and ![Image](src)
 ```
 
